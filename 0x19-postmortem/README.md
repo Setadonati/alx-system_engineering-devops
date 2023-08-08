@@ -1,5 +1,5 @@
 # Title: Postmortem: Lessons Learned from a Blog Failure
-![postmortem](post.jpj)
+![postmortem](post.jpg)
 ## Introduction:
 In today's digital age, blogging has become an essential tool for sharing information, expressing ideas, and building communities. However, not all blog endeavors are successful. This postmortem aims to dissect the reasons behind a blog failure and extract valuable lessons that can help aspiring bloggers avoid similar pitfalls. By reflecting on our mistakes, we can gain insights into what went wrong and how to improve future blogging endeavors.
 
